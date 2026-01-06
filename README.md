@@ -1,6 +1,4 @@
-# Telecom-Customer-Churn-Prediction-Pipeline
-
-# End-to-End Telecom Customer Churn Pipeline (GitHub Project)
+# End-to-End Telecom Customer Churn Pipeline
 
 Build a **Telecom Customer Churn Prediction Pipeline** using the IBM “Telco Customer Churn” dataset on Kaggle and implement all stages from raw data to deployment and monitoring.[web:44][web:56]
 
