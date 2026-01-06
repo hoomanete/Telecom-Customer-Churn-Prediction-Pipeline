@@ -19,6 +19,7 @@ The goal is to design a production‑style, end‑to‑end machine learning syst
 ## 2. Data source
 
 Use the **IBM Telco Customer Churn dataset (Kaggle)**.
+- https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 - The dataset, originally supplied by IBM, has ~7,043 customers and 20+ attributes, including tenure, contract type, monthly charges, total charges, and a binary churn flag.[web:44][web:54][web:58]  
 - Many studies use this dataset for churn prediction with models such as logistic regression, Random Forest, XGBoost, and deep learning methods (FT‑Transformer, TabNet, hybrid CNN/BiLSTM, etc.).[web:44][web:54][web:57][web:61]  
